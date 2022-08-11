@@ -15,5 +15,5 @@ I'm a Software Engineer who is currently open to works as a Backend Engineer, ei
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=oladejiadeshina&show_icons=true&include_all_commits=true&hide_border=true" alt="Adeshina's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oladejiadeshina&langs_count=8&layout=compact&hide_border=true" alt="Adeshina3002's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=adeshina3002&show_icons=true&include_all_commits=true&hide_border=true" alt="Adeshina's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeshina3002&langs_count=8&layout=compact&hide_border=true" alt="Adeshina3002's GitHub stats" /> |
 | ------------- | ------------- |
