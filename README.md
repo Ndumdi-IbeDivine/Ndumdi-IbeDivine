@@ -6,7 +6,7 @@
 
 🚀 What I Bring to the Table:
 
-Solid Foundation: With three years of hands-on experience, I've honed my skills in backend development, specializing in technologies like Node.js and PHP.
+Solid Foundation: With three years of hands-on experience, I've honed my skills in backend development, specializing in technologies like javascrit and PHP.
 
 User-Centric Approach: My mission is to build products that users love. I believe in creating seamless and enjoyable experiences that make a positive impact.
 
