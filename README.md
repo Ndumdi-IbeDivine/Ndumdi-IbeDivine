@@ -1,8 +1,6 @@
-# Hello there; welcome 👋🏾
+👋 Hey there!
 
- [![Linkedin Badge](https://img.shields.io/badge/-divinendumdi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divine-ndumdi-92900624b/)](https://www.linkedin.com/in/divine-ndumdi-92900624b/) [![Twitter Badge](https://img.shields.io/badge/-DivineNdumdi-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/DNdumdi)](https://twitter.com/DNdumdi)
-
-👋 Hey there! I'm Divine, a Backend Developer with a strong foundation and a keen eye for crafting robust and scalable solutions. Having spent three years in the space, my journey has been marked by a commitment to continuous learning and a passion for building products that users love.
+I'm Divine, a Backend Developer with a strong foundation and a keen eye for crafting robust and scalable solutions. Having spent three years in the space, my journey has been marked by a commitment to continuous learning and a passion for building products that users love.
 
 🚀 What I Bring to the Table:
 
@@ -29,6 +27,7 @@ I'm open to networking oppurtuinities, collaborations, discussions, and connecti
 - 😊 Pronouns: She/her
 - 🌱 Backend Developer.
   
+ [![Linkedin Badge](https://img.shields.io/badge/-divinendumdi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divine-ndumdi-92900624b/)](https://www.linkedin.com/in/divine-ndumdi-92900624b/) [![Twitter Badge](https://img.shields.io/badge/-DivineNdumdi-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/DNdumdi)](https://twitter.com/DNdumdi)
 
 ---
 
