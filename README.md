@@ -25,7 +25,7 @@ I'm open to networking oppurtuinities, collaborations, discussions, and connecti
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 🌱 Backend Developer.
+- 🌱 Backend Developer | Open-source enthusiast
   
  [![Linkedin Badge](https://img.shields.io/badge/-divinendumdi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divine-ndumdi-92900624b/)](https://www.linkedin.com/in/divine-ndumdi-92900624b/) [![Twitter Badge](https://img.shields.io/badge/-DivineNdumdi-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/DNdumdi)](https://twitter.com/DNdumdi)
 
