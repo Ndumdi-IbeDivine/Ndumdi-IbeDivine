@@ -5,12 +5,16 @@
 👋 Hey there! I'm [Your Name], a seasoned Backend Developer with three years of hands-on experience in crafting robust and scalable solutions. My passion lies in building products that not only meet user needs but exceed their expectations, creating meaningful experiences.
 
 🚀 What I Bring to the Table:
+
 Technical Expertise: Proficient in the art of backend development, I bring a strong command of technologies like Node.js, and PHP to the coding table.
+
 User-Centric Approach: My mission is to build products that users love. I believe in creating seamless and enjoyable experiences that make a positive impact.
+
 Open Source Enthusiast: I'm an active contributor to the open-source community. I believe in the power of collaboration and am dedicated to giving back to the community that has shaped my journey.
 
 🌐 Current Focus:
 Product Development: Actively engaged in developing products that resonate with user needs and preferences.
+
 Open Source Contribution: Contributing to open-source projects that align with my values and interests.
 
 🌱 What's Next:
